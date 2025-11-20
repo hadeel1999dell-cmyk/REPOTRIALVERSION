@@ -5,3 +5,4 @@ line 4
 HERE BE TREASURE!
 extra 1
 extra 2
+extra 3
